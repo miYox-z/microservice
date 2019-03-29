@@ -1,8 +1,8 @@
 package com.honestyzhang.msa.calendarapi_30005.po;
 
 import java.sql.Timestamp;
-
-public class ClassInfo {
+import java.io.Serializable;
+public class ClassInfo implements Serializable {
 
     private long classId;
     private String className;
