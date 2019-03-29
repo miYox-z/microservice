@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="calendarapi_30005" />
+        <module name="clienta_30003" />
+        <module name="eureka_server_30000" />
+        <module name="ribbon_30002" />
+        <module name="ui_30007" />
+        <module name="userapi_30006" />
+        <module name="zuul_30001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calendarapi_30005" target="1.8" />
+      <module name="clienta_30003" target="1.8" />
+      <module name="eureka_server_30000" target="1.8" />
+      <module name="ribbon_30002" target="1.8" />
+      <module name="ui_30007" target="1.8" />
+      <module name="userapi_30006" target="1.8" />
+      <module name="zuul_30001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="calendarapi_30005" options="-parameters" />
+      <module name="clienta_30003" options="-parameters" />
+      <module name="eureka_server_30000" options="-parameters" />
+      <module name="ribbon_30002" options="-parameters" />
+      <module name="ui_30007" options="-parameters" />
+      <module name="userapi_30006" options="-parameters" />
+      <module name="zuul_30001" options="-parameters" />
+    </option>
+  </component>
+</project>

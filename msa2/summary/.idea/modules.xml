@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../calendarapi_30005/calendarapi_30005.iml" filepath="$PROJECT_DIR$/../calendarapi_30005/calendarapi_30005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../clienta_30003/clienta_30003.iml" filepath="$PROJECT_DIR$/../clienta_30003/clienta_30003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eureka_server_30000/eureka_server_30000.iml" filepath="$PROJECT_DIR$/../eureka_server_30000/eureka_server_30000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ribbon_30002/ribbon_30002.iml" filepath="$PROJECT_DIR$/../ribbon_30002/ribbon_30002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../userapi_30006/userapi_30005.iml" filepath="$PROJECT_DIR$/../userapi_30006/userapi_30005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zuul_30001/zuul_30001.iml" filepath="$PROJECT_DIR$/../zuul_30001/zuul_30001.iml" />
+    </modules>
+  </component>
+</project>
